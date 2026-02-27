@@ -31,7 +31,7 @@ public class CitiizenController {
     	 model.addAttribute("plans",plans);
     	
     	init(model);
-    	int a = 9;
+    	int a = 10;
     	return "index";
     }
 
